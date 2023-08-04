@@ -18,3 +18,5 @@ xác nhận : git commit -m "nội dung commit"
   git remote .....
 
   git push - origin master 
+
+conflict ~ xung đột
