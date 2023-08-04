@@ -5,7 +5,8 @@ choose: git add -A ( git status :show thong tin)
 kiem tra : git log
 chọn: git add -A ( git status: show thông tin)
 xác nhận : git commit -m "nội dung commit"
-đẩy: git push
+đẩy:lần đầu git push -u origin master
+ lần 2 trở lên : git push
 
 
  git config --global user.email "you@example.com"
@@ -17,4 +18,3 @@ xác nhận : git commit -m "nội dung commit"
   git remote .....
 
   git push - origin master 
-  
